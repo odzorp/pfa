@@ -1,0 +1,23 @@
+.footer{
+    width: 1280px;
+    height: 37px;
+    flex-shrink: 0;
+    margin-top: -122px;
+    background-color: #E8EDFD;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.navItem{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    margin-right: 18px;
+    color: #1e1e1e;
+    }
+    .navItem:first-child{
+    margin-left: 64px;
+    }

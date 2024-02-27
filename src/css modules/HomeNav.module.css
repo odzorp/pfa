@@ -1,0 +1,25 @@
+.navContainer{
+    width: 100vw;
+    height: 67px;
+    flex-shrink: 0;
+    background-color: #E8EDFD;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-y: hidden;
+}
+
+.img{
+    margin-left: 64px;
+}
+.navItem{
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+margin-right: 18px;
+}
+.navItem:first-child{
+margin-left: 102px;
+}

@@ -1,0 +1,184 @@
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100vw;
+    margin-top: 40px;
+    margin-bottom: 155PX;
+
+}
+.wrapperLeft{
+    
+    width: 434px;
+    height: 455px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 65PX;
+}
+
+.Box1{
+   
+    width: 262px;
+    height: 455px;
+    flex-shrink: 0;
+    background: #D9D9D9;
+    position: relative;
+    z-index: 0;
+    margin-left: 161px;
+    
+}
+.Box2{
+ 
+    width: 434px;
+    height: 291px;
+    flex-shrink: 0;
+    background: #7F7DFA; 
+    position: relative;
+    z-index: 3;
+    margin-left: -350px;
+}
+
+.wrapperRight{
+    width: 563px;
+    height: 354px;
+    flex-shrink: 0;
+    margin-right: 45px;
+}
+.HeadTxt{
+    color: #171F25;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.rule{
+    width: 464px;
+    height: 1px;
+    background: #D9D9D9;
+    flex-shrink: 0;
+}
+.holder{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 523px;
+    height: 39px;
+    margin: 21px;
+}
+.holderTxt{
+    width: 474px;
+    height: 36px;
+    flex-shrink: 0;
+  
+
+}
+.firstTxt{
+    margin-left: 21px;
+    color: #171F25;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.secondTxt{
+    margin-left: 21px;
+    color: #818181;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: -10px;
+
+}
+.Onboardbtn{
+    width: 181px;
+    height: 41px;
+    flex-shrink: 0;
+    background: #432CDC;
+    border: none;
+    background: #432CDC;
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    cursor: pointer;
+}
+.contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 425px;
+    height: 82px;
+    margin: 21px 0 41px -55px;
+}
+
+.boyImg{
+    width: 356px;
+    height: 455px;
+    flex-shrink: 0;
+    margin-left: 65px;
+}
+
+.subTxt{
+    color: #818181;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.Onboard1btn{
+    width: 181px;
+    height: 41px;
+    flex-shrink: 0;
+    background: #432CDC;
+    border: none;
+    background: #432CDC;
+    color: #FFF;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    cursor: pointer;
+    margin-top: 190px;
+
+}
+.Onboard2holder{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 139px;
+    height: 102px;
+    flex-shrink: 0;
+    margin: 21px;
+}
+
+.Onboard2HolderTxt{
+  margin-top: 1px;
+    
+}
+.Onboard2secondTxt{
+    color: #818181;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.cardImg{
+    width: 37px;
+    height: 29px;
+
+}
+.Onboard1contain{
+    margin-bottom: 45px;
+}
+.itemsHolder{
+    display: flex;
+}

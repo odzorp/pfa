@@ -1,0 +1,30 @@
+.container{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 65px;
+    overflow-x: hidden;
+}
+.rule{
+    width: 90%;
+    height: 1px;
+    flex-shrink: 0;
+    background: #D9D9D9;
+}
+.headerTxt{
+    color: #171F25;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.subTxt{
+    color: #818181;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+}

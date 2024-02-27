@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Txt{
+    width: 551px;
+    height: 164px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 202px;
+    position: relative;
+    z-index: 3;
+}
+.topTxt{
+    background: linear-gradient(88deg, #6682B9 -131.07%, #6682B9 11.4%, #60E1F8 46.46%, #5AA1FB 93.21%, #6682B9 173.35%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; font-size: 96px;
+    font-style: normal;
+    font-weight: 700;
+}
+.downTxt{
+    color: #818181;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: -86px;
+}
+.arrow{
+    margin: -324px 0 0  295px;
+    width: 547.946px;
+    height: 535.273px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 0;
+}
+.bckbtn{
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #432CDC;
+    font-size: 15px;
+}

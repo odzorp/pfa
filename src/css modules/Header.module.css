@@ -1,0 +1,46 @@
+.container{
+    display: inline-flex;
+    padding: 22px 49px;
+    align-items: center;
+    gap: 54px;
+    background: #FFF;
+    width: 73.78vw;
+    position: relative;
+    z-index: 3;
+    float: right;
+    /* margin-top: -669px; */
+}
+
+.hold{
+    display: flex;
+    align-items: flex-start;
+    gap: 629px;
+}
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 1px solid #c2c2c2;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.srchField{
+    border-radius: 26px;
+    border: 1px solid #c2c2c2;
+    background-color: #f6f6f6;
+    width: 205px;
+    height: 27px;
+    outline: none;
+    padding-left: 28px;
+}
+
+.searchIcon{
+    width: 18px;
+    height: 18px;
+    margin-right: 12px;
+}

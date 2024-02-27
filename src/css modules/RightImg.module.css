@@ -1,0 +1,16 @@
+.container{
+    width:407px;
+    height: 100vh;
+    flex-shrink: 0;
+    background: url(../asset/hero-gradient.webp.png), lightgray 0px -99.871px / 100% 157.051% no-repeat ;
+    background-size: contain;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+}
+.card{
+    width: 400px;
+    height: 417.72px;
+    flex-shrink: 0;
+}

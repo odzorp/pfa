@@ -1,0 +1,116 @@
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 45px 0 65px 0;
+  }
+
+  .wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 45%;
+    height: 55%px;
+    border-radius: 35px;
+    background: #FFF;
+    padding: 10px;
+  }
+  .Header{
+    color: #1E1E1E;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: -10px;
+    }
+    .span{
+        text-decoration: none;
+        color: #432CDC;
+        text-align: center;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+    
+    .subTxt{
+    color: #898989;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 51px;
+    }
+
+    .googleSignup{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 458px;
+        height: 47px;
+        border-radius: 7px;
+        border: 1px solid #C2C2C2;
+        background: #FFF;
+        margin-bottom: 51px;
+      }
+      .GmailLogo{
+        margin: 16px 0 17px 44px;
+      }
+      .gmailTxt{
+        margin: 16px 142px 17px 75px;
+        text-decoration: none;
+        color: #131313;
+      }
+      .line{
+        width: 184px;
+        height: 1px;
+        background: #C2C2C2;
+      }
+      
+      .or{
+        color: #c2c2c2;
+        margin: 0 30px;
+      }
+      .divider{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 51px;
+      }
+      .input{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 414px;
+        height: 47px;
+        border-radius: 7px;
+        border: 1px solid #C2C2C2;
+        background: #FFF;
+        margin-bottom: 51px;
+        padding-left: 44px;
+      }
+      .input::placeholder{
+        color: #C2C2C2;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+      .btn{
+        width: 458px;
+        height: 57px;
+        border-radius: 7px;
+        border: 1px solid #432CDC;
+        background: #432CDC;
+        color: #F6F8FE;
+        text-align: center;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        cursor: pointer;
+        margin-bottom: 2rem;
+      }
+      

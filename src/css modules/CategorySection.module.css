@@ -1,0 +1,46 @@
+.container{
+    width: 334px;
+    height: 211px;
+    border-radius: 19px;
+    background: #FFE7D1;
+    margin-right: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 21px;
+    
+}
+.label{
+    font-size: 14px;
+    margin-bottom: 12px;
+    color: #252525;
+    margin-top: 31px;
+    margin-bottom: -1px;
+
+}
+.amtInput{
+    width: 254px;
+    height: 32px;
+    border: none;
+
+}
+.btn{
+    width: 264px;
+   height: 32px;
+   margin-left: 31px;
+   border: none;
+   cursor: pointer;
+   margin-top: -70px;
+   
+
+
+}
+.headTxt{
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: -14px;
+}
